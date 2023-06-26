@@ -2,7 +2,6 @@
 <html>
   <head>
     <meta charset="UTF-8">
-    <title>Strong Random Password Generator</title>
   </head>
   <body>
     <h1>Strong Random Password Generator</h1>
